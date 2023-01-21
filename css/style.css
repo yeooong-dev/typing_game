@@ -37,16 +37,16 @@ body{
 .time, .score{
     font-size: 30px;
 }
-.button_loading{
+.button{
     width: 200px;
     height: 35px;
-    background: 322d42;
-    color: 2e2e2e;
+    background: #322d42;
+    color: #ffffff;
     border: none;
     margin-top: 3rem;
     cursor: pointer;
 }
 .loading{
-    background: white;
+    background: rgb(132, 132, 132);
     cursor: not-allowed;
 }
